@@ -1,7 +1,7 @@
-name: accordion
+name: clean_accordions
 description: Flutter package to allow developer to use Accordion in their Flutter app.
-version: 1.0
-homepage: https://github.com/VrushankBardolia/accordion.git
+version: 1.0.0
+homepage: https://github.com/VrushankBardolia/accordion
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
