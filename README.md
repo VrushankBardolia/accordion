@@ -41,8 +41,8 @@ Here is the Simple use of the Accordion:
 
 ```dart
 Accordion(
-  title: const Text('Hey there'),
-  subTitle: const [
+  title: Text('Hey there'),
+  subTitle: [
     Text('Welcome'),
     Text('Back')
   ]
